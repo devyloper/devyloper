@@ -1,5 +1,4 @@
 <h1 align="center"><em>Hi there, I'm Devyanshu! </em><img src="https://user-images.githubusercontent.com/73777108/150582164-1a082835-3bad-4a81-b3c7-dad6e90c6e19.gif" width="50"></h1>
-<img src="https://pbs.twimg.com/profile_banners/1221068855864262656/1655247910/1500x500" alt="" > &nbsp; &nbsp;
 
 ---
 
