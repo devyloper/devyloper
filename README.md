@@ -5,7 +5,7 @@
 ## I'm a Student, Music Producer and an Open Source Enthusiast
 
 - 🌱 I’m currently learning docker and microservices.
-- 👯 I’m looking to contribute to Java projects
+- 👯 I’m looking to contribute to Java and JavaScript projects
 - 🥅 2022 Goals: Contribute more to Open Source projects
 
 ---
