@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning docker and microservices.
 - 👯 I’m looking to contribute to Java and JavaScript projects
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 
 
 
