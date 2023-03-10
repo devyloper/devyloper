@@ -5,7 +5,7 @@
 ## I'm a Student, Music Producer and an Open Source Enthusiast
 
 - 🌱 I’m currently learning Rust and WASM.
-- 👯 I’m looking to contribute to Java and JavaScript projects
+- 👯 I’m looking to contribute to Java, Python and JavaScript projects
 - 🥅 2023 Goals: Contribute more to Open Source projects
 
 
