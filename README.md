@@ -6,18 +6,18 @@
             src="https://img.shields.io/github/stars/devyloper?affiliations=OWNER&color=%23ffe411&label=github%20stars&logo=github&logoColor=%23fffFF&style=flat" />
     </a>
    <img src="https://count.getloli.com/get/@:devyloper?theme=gelbooru" alt=":name" height="100px"/>
-     <a href="https://www.youtube.com/channel/UC5Xu78KKvRR5DYHy8k9X1Hg">
-       <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UC5Xu78KKvRR5DYHy8k9X1Hg">
+     <a href="https://www.youtube.com/channel/UCd858-T1AUmF78YGovRp-JQ">
+       <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCd858-T1AUmF78YGovRp-JQ">
     </a>
 <p>
 
-<p><img src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTg4OGViZjAyOWIwZDE2Mjg3ODY4MDM5OTczMzQ1NDg4MGQzMTg4ZiZjdD1z/dB0lH3k3AE96259Exh/giphy.gif" width="100px" height="100px">, I'm <a href = "https://peerlist.io/vaishnavikale">Vaishnavi</a></p>
+<p><img src= "https://media.giphy.com/media/z9YISRsmFchUeUMzbM/giphy.gif" width="100px" height="150px">Hi, I'm <a href = "https://peerlist.io/devyanshujadon">Devyanshu!</a></p>
 </p>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+a+tech+enthusiast%2C+explorer%2C;and+love+solving+problems+;creatively+using+gamification" alt="Typing SVG" /></a>
 </div>
 <p align='center'>
  <img src="https://github-profile-trophy.vercel.app/?username=devyloper&theme=juicyfresh&column=-1&margin-w=15&margin-h=15" alt="devyloper" />
-<a href = "https://holopin.io/@vaishnavikale"><img src = "https://www.holopin.me/vaishnavikale" alt=""/></a>
+<a href = "https://holopin.io/@DevyanshuJadon"><img src = "https://www.holopin.me/DevyanshuJadon" alt=""/></a>
 </p>
 
 <p align="center">
@@ -31,11 +31,11 @@
 
 
 ```java
-import universe.milky_way.solar_system.earth.asia.southasia.india.pune;
+import universe.milky_way.solar_system.earth.asia.southasia.india.bhopal;
 
-public class VaishnaviKale {
-    private String name = "Vaishnavi Kale";
-    private String pronouns = {"she, her, hers"};
+public class DevyanshuJadon {
+    private String name = "Devyanshu Jadon";
+    private String pronouns = {"he, him, his"};
     private String[] code = {"Java", "Python", "JavaScript", "C", "SQL", "R"};
     private String[] framework = {"React JS", "Tailwind CSS"};
     private String[] devOps = {"Docker"};
@@ -45,14 +45,14 @@ public class VaishnaviKale {
     private String funFact = "I am a night owl and Clinophile";
 
     public static void main(String[] args) {
-        VaishnaviKale vaishnaviKale = new VaishnaviKale();
-        System.out.println("👋 Hey there! I'm " + vaishnaviKale.name);
-	System.out.println("😄 Pronouns: " + String.join("|",vaishnaviKale.pronouns);
-        System.out.println("🔧 I work with languages like " + String.join(", ", vaishnaviKale.code));
-        System.out.println("🚀 Currently diving into " + String.join(", ", vaishnaviKale.lookingToGetStartedWith));
-        System.out.println("💬 Ask me about " + String.join(", ", vaishnaviKale.askMeAbout));
-        System.out.println("🌟 Fun Fact: " + vaishnaviKale.funFact);
-        System.out.println("📍 Based in " + pune.getCity());
+        DevyanshuJadon DevyanshuJadon = new DevyanshuJadon();
+        System.out.println("👋 Hey there! I'm " + DevyanshuJadon.name);
+	System.out.println("😄 Pronouns: " + String.join("|",DevyanshuJadon.pronouns);
+        System.out.println("🔧 I work with languages like " + String.join(", ", DevyanshuJadon.code));
+        System.out.println("🚀 Currently diving into " + String.join(", ", DevyanshuJadon.lookingToGetStartedWith));
+        System.out.println("💬 Ask me about " + String.join(", ", DevyanshuJadon.askMeAbout));
+        System.out.println("🌟 Fun Fact: " + DevyanshuJadon.funFact);
+        System.out.println("📍 Based in " + bhopal.getCity());
     }
 }
 ```
@@ -61,12 +61,12 @@ public class VaishnaviKale {
 - 🌱 I’m currently learning Application Development using Android Studio in Java,Flutter, Java Full Stack, Web Development using HTML, CSS, Javascript, Data Science in R and Python, DevOps
 - 👯 I’m looking to collaborate on Web dev and App dev using Android Studio
 - 🤔 I’m looking for help to get started with web3 fundamentals
-- 😄 Pronouns: She/Her/Hers
+- 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I am a nightowl and Clinophile
-- 📫 How to reach me **vaishnavi.kale3011@gmail.com**
+- 📫 How to reach me **jadon.devyanshu@gmail.com**
 ```javascript
 const vaishnavi_kale = {
-	pronouns: "she" | "her" | "hers",
+	pronouns: "he" | "him" | "his",
 	code: [Java, Python, JavaScript, C, SQL, R],
 	framework: [React JS, Tailwind CSS],
 	devOps: [Docker],
@@ -83,14 +83,14 @@ const vaishnavi_kale = {
 <h1><img src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjM5YmI1MTkzNzM2MzkwZTYwOGMwNGRlMzJkNDg0N2Y0NWUyN2UwOSZjdD1z/afn6ts3eRHxQ5pZtZ9/giphy.gif" width="60" height="60px">Connect with Me<h1>
 
 <p align="center">
-<a href = "https://www.linkedin.com/in/vaishnavi-kale-111543204/" target="blank"> <img src="https://media.giphy.com/media/QhPL2mdDVzeuHiRcIw/giphy.gif" width="90px" height="110px"/> </a>
-<a href = "mailto:vaishnavi.kale3011@gmail.com" target="blank"> <img src="https://media.giphy.com/media/j6waMWSdaXW5SYp0Id/giphy.gif" width ="80px" height="80px"/>  </a>
-<a href = "https://twitter.com/vaishnavi_k3969" target="blank"> <img src="https://media.giphy.com/media/e6YbWDajUKSzebFVuB/giphy.gif" width = "90px" height = "110px"/> </a>
+<a href = "https://www.linkedin.com/in/devyanshu-jadon/" target="blank"> <img src="https://media.giphy.com/media/QhPL2mdDVzeuHiRcIw/giphy.gif" width="90px" height="110px"/> </a>
+<a href = "mailto:jadon.devyanshu@gmail.com" target="blank"> <img src="https://media.giphy.com/media/j6waMWSdaXW5SYp0Id/giphy.gif" width ="80px" height="80px"/>  </a>
+<a href = "https://twitter.com/DevyanshuJadon" target="blank"> <img src="https://media.giphy.com/media/e6YbWDajUKSzebFVuB/giphy.gif" width = "90px" height = "110px"/> </a>
 <br/>
 <a href = "https://discord.com/users/1152280568692740177"><img src = "https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white"></a>
-<a href = "https://www.linkedin.com/in/vaishnavi-kale-111543204"><img src = "https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a>
-<a href = "https://twitter.com/vaishnavi_k3969"><img src = "https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white"/></a> 
-<a href = "https://youtube.com/@kale.vaishnavi"><img src = "https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white"/></a>
+<a href = "https://www.linkedin.com/in/devyanshu-jadon"><img src = "https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a>
+<a href = "https://twitter.com/DevyanshuJadon"><img src = "https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white"/></a> 
+<a href = "https://youtube.com/@devyanshudoestechstuff"><img src = "https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white"/></a>
  <br>
 <a href="https://kaggle.com/vaishnaviakale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vaishnaviakale" height="50" width="60" /></a>
 <a href="https://www.hackerrank.com/vaishnavi_a_kale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vaishnavi_a_kale" height="50" width="60" /></a>
@@ -117,13 +117,13 @@ const vaishnavi_kale = {
  src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWEwZDZmMTdhZGEzMWQ3ZDlmNGFmZGEwZGJjMDQ1NzAzODg3ZmRmZCZjdD1z/LM7mVNy0iAZpTBAkIH/giphy.gif" width="50px" height="50px"> Streak Stats</p></div>
 <p align="center">
   <p align="center">
-    <a href="https://github.com/devyloper/github-readme-streak-stats">
-        <div title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Vaishnavi's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=devyloper&theme=black-ice&hide_border=true&stroke=0000&background=000000"/>
+    <a href="https://streak-stats.demolab.com/?user=devyloper">
+        <div title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Devyanshu's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=devyloper&theme=black-ice&hide_border=true&stroke=0000&background=000000"/>
     </a>
   </p>
   <p align='center'>
- <img src="https://stats.quine.sh/vaishnavi3969/web3?theme=dark" height=350px width=400px>
- <img src = "https://stats.quine.sh/vaishnavi3969/github?theme=dark" height=350px width=300px>
+ <img src="https://stats.quine.sh/devyloper/web3?theme=dark" height=350px width=400px>
+ <img src = "https://stats.quine.sh/devyloper/github?theme=dark" height=350px width=300px>
  <p>
 </p>
 </div>
@@ -158,7 +158,7 @@ const vaishnavi_kale = {
 ![](./profile-3d-contrib/profile-green-animate.svg)
 </div>
  <p align='center'>
- <img src="https://github.com/devyloper/devyloper/assets/80088403/31987900-c48b-47e4-a725-1e4afbac5313"/>
+ <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/80088403/243566581-31987900-c48b-47e4-a725-1e4afbac5313.svg"/>
  <p>
 <p align ='center'>
 <p> Thanks for visiting my profile. Have a nice day  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30"></p>
