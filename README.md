@@ -92,9 +92,8 @@ const vaishnavi_kale = {
 <a href = "https://twitter.com/DevyanshuJadon"><img src = "https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white"/></a> 
 <a href = "https://youtube.com/@devyanshudoestechstuff"><img src = "https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white"/></a>
  <br>
-<a href="https://kaggle.com/vaishnaviakale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vaishnaviakale" height="50" width="60" /></a>
-<a href="https://www.hackerrank.com/vaishnavi_a_kale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vaishnavi_a_kale" height="50" width="60" /></a>
-<a href="https://auth.geeksforgeeks.org/user/vaishnaviakale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vaishnaviakale" height="50" width="60" /></a>
+<a href="https://www.kaggle.com/devyloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="" height="50" width="60" /></a>
+<a href="https://auth.geeksforgeeks.org/user/vaishnaviakale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="" height="50" width="60" /></a>
  <p align="left"> <a href="https://twitter.com/vaishnavi_k3969" target="blank"><img src="https://img.shields.io/twitter/follow/vaishnavi_k3969?logo=twitter&style=for-the-badge" alt="vaishnavi_k3969" /></a> </p>
  </p>
 
@@ -102,31 +101,15 @@ const vaishnavi_kale = {
 	 <div><p><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px">Stats</p></div>
  <p align="center">
  <img src = "https://github-readme-activity-graph.vercel.app/graph?username=devyloper&theme=merko"/>
- <a href="https://github.com/devyloper/github-readme-stats"><img alt="Vaishnavi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=devyloper&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=000000" /></a>
-  <a href="https://github.com/devyloper/github-readme-stats"><img alt="Vaishnavi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devyloper&langs_count=20&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=000000" /></a>
-  <a href = 'https://quine.sh?utm_source=widgets&utm_campaign=vaishnavi3969'><img src = "https://stats.quine.sh/vaishnavi3969/dependencies?theme=dark"/></a>
+ <a href="https://github.com/devyloper/github-readme-stats"><img alt="Devyanshu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=devyloper&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=000000" /></a>
+  <a href="https://github.com/devyloper/github-readme-stats"><img alt="Devyanshu's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devyloper&langs_count=20&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=000000" /></a>
+  
  </p>
- <p align='center'>
- <img src="https://stats.quine.sh/vaishnavi3969/languages-over-time?theme=dark" height=300px width=350px>
- <img src="https://stats.quine.sh/vaishnavi3969/topics-over-time?theme=dark" height=300px width=400px>
-  </p>
+
  </div>
 
  <div>
-<div><p><img 
- src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWEwZDZmMTdhZGEzMWQ3ZDlmNGFmZGEwZGJjMDQ1NzAzODg3ZmRmZCZjdD1z/LM7mVNy0iAZpTBAkIH/giphy.gif" width="50px" height="50px"> Streak Stats</p></div>
-<p align="center">
-  <p align="center">
-    <a href="https://streak-stats.demolab.com/?user=devyloper">
-        <div title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Devyanshu's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=devyloper&theme=black-ice&hide_border=true&stroke=0000&background=000000"/>
-    </a>
-  </p>
-  <p align='center'>
- <img src="https://stats.quine.sh/devyloper/web3?theme=dark" height=350px width=400px>
- <img src = "https://stats.quine.sh/devyloper/github?theme=dark" height=350px width=300px>
- <p>
-</p>
-</div>
+
 
 <div>
 	<div><p><img src= "https://media.giphy.com/media/hpFCIpvGxUKgTfjRKl/giphy.gif" width="60" height="60px"> Languages and Tools</p>
@@ -166,7 +149,7 @@ const vaishnavi_kale = {
 <br>
   
  <p align = 'center'?
-  <a href = "https://peerlist.io/vaishnavi" target="blank"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFkMGExNzNmMTY4ZGQ0YWMwZjFmMmFjNTMwN2RkNjU5OGI0MWI4YSZjdD1z/Vf3ZKdillTMOOaOho0/giphy.gif" width="150px" height="150px"/></a>
+  <a href = "https://peerlist.io/devyanshujadon" target="blank"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFkMGExNzNmMTY4ZGQ0YWMwZjFmMmFjNTMwN2RkNjU5OGI0MWI4YSZjdD1z/Vf3ZKdillTMOOaOho0/giphy.gif" width="150px" height="150px"/></a>
  </p>
  
 <p align="center">
