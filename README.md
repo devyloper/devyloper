@@ -1,158 +1,30 @@
-<div align='center'>
- 
-<p align="center">
-    <a href="https://github.com/itgoyo">
-        <img alt="github"
-            src="https://img.shields.io/github/stars/devyloper?affiliations=OWNER&color=%23ffe411&label=github%20stars&logo=github&logoColor=%23fffFF&style=flat" />
-    </a>
-   <img src="https://count.getloli.com/get/@:devyloper?theme=gelbooru" alt=":name" height="100px"/>
-     <a href="https://www.youtube.com/channel/UCd858-T1AUmF78YGovRp-JQ">
-       <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCd858-T1AUmF78YGovRp-JQ">
-    </a>
-<p>
+<h1 align="center">Hi 👋, I'm Devyanshu!</h1>
+<h3 align="center">A passionate Full Stack Developer from India.</h3>
 
-<p><img src= "https://media.giphy.com/media/z9YISRsmFchUeUMzbM/giphy.gif" width="100px" height="150px">Hi, I'm <a href = "https://peerlist.io/devyanshujadon">Devyanshu!</a></p>
-</p>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+a+tech+enthusiast%2C+explorer%2C;and+love+solving+problems+;creatively+using+gamification" alt="Typing SVG" /></a>
-</div>
-<p align='center'>
- <img src="https://github-profile-trophy.vercel.app/?username=devyloper&theme=juicyfresh&column=-1&margin-w=15&margin-h=15" alt="devyloper" />
-<a href = "https://holopin.io/@DevyanshuJadon"><img src = "https://www.holopin.me/DevyanshuJadon" alt=""/></a>
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=devyloper&label=Profile%20views&color=0e75b6&style=flat" alt="devyloper" /> </p>
 
-<p align="center">
-<img src= "https://media.giphy.com/media/qbvNxAZvXNErSHbEEV/giphy.gif" width="60" height="60px">
-<br>
- <img src = "https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha">
- </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devyloper" alt="devyloper" /></a> </p>
 
-<h1><img src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDc1NTAyOGU3MzE5YzZhNzVjYTlmZGQxMmY5MmU3MDg5MDhjZDliNyZjdD1z/SA0bQNKtlZOxOiKuV9/giphy.gif" width="60px" height="40px">About Me</h1>
+<p align="left"> <a href="https://twitter.com/devyanshujadon" target="blank"><img src="https://img.shields.io/twitter/follow/devyanshujadon?logo=twitter&style=for-the-badge" alt="devyanshujadon" /></a> </p>
 
+- 🌱 I’m currently learning **Rust**
 
+- 👨‍💻 All of my projects are available at [https://devyloper.tech](https://devyloper.tech)
 
-```java
-import universe.milky_way.solar_system.earth.asia.southasia.india.bhopal;
+- 💬 Ask me about **React, NextJS and DevOps**
 
-public class DevyanshuJadon {
-    private String name = "Devyanshu Jadon";
-    private String pronouns = {"he, him, his"};
-    private String[] code = {"Java", "Python", "JavaScript", "C", "SQL", "R"};
-    private String[] framework = {"React JS", "Tailwind CSS"};
-    private String[] devOps = {"Docker"};
-    private String[] tools = {"Figma", "Android Studio"};
-    private String[] lookingToGetStartedWith = {"Web3"};
-    private String[] askMeAbout = {"Web Development", "Machine Learning", "DevOps", "Data Structures"};
-    private String funFact = "I am a night owl and Clinophile";
+- 📫 How to reach me **devyanshu.jadon@gmail.com**
 
-    public static void main(String[] args) {
-        DevyanshuJadon DevyanshuJadon = new DevyanshuJadon();
-        System.out.println("👋 Hey there! I'm " + DevyanshuJadon.name);
-	System.out.println("😄 Pronouns: " + String.join("|",DevyanshuJadon.pronouns);
-        System.out.println("🔧 I work with languages like " + String.join(", ", DevyanshuJadon.code));
-        System.out.println("🚀 Currently diving into " + String.join(", ", DevyanshuJadon.lookingToGetStartedWith));
-        System.out.println("💬 Ask me about " + String.join(", ", DevyanshuJadon.askMeAbout));
-        System.out.println("🌟 Fun Fact: " + DevyanshuJadon.funFact);
-        System.out.println("📍 Based in " + bhopal.getCity());
-    }
-}
-```
-<!--
-- 🎓 I'm a currently a college student pursuing Computer Engineering and honors in Data Science and Machine Learning  
-- 🌱 I’m currently learning Application Development using Android Studio in Java,Flutter, Java Full Stack, Web Development using HTML, CSS, Javascript, Data Science in R and Python, DevOps
-- 👯 I’m looking to collaborate on Web dev and App dev using Android Studio
-- 🤔 I’m looking for help to get started with web3 fundamentals
-- 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: I am a nightowl and Clinophile
-- 📫 How to reach me **jadon.devyanshu@gmail.com**
-```javascript
-const vaishnavi_kale = {
-	pronouns: "he" | "him" | "his",
-	code: [Java, Python, JavaScript, C, SQL, R],
-	framework: [React JS, Tailwind CSS],
-	devOps: [Docker],
-	tools: [Figma, Android Studio],
- lookingtoGetStartedWith:["Web3"],
-	askMeAbout: ["Web Development", "Machine Learning","DevOps", "Data Structures"],
-	funFact: "I am a night owl and Clinophile"
-}
-```
---!>
-
-<!--Connect with me -->
-
-<h1><img src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjM5YmI1MTkzNzM2MzkwZTYwOGMwNGRlMzJkNDg0N2Y0NWUyN2UwOSZjdD1z/afn6ts3eRHxQ5pZtZ9/giphy.gif" width="60" height="60px">Connect with Me<h1>
-
-<p align="center">
-<a href = "https://www.linkedin.com/in/devyanshu-jadon/" target="blank"> <img src="https://media.giphy.com/media/QhPL2mdDVzeuHiRcIw/giphy.gif" width="90px" height="110px"/> </a>
-<a href = "mailto:jadon.devyanshu@gmail.com" target="blank"> <img src="https://media.giphy.com/media/j6waMWSdaXW5SYp0Id/giphy.gif" width ="80px" height="80px"/>  </a>
-<a href = "https://twitter.com/DevyanshuJadon" target="blank"> <img src="https://media.giphy.com/media/e6YbWDajUKSzebFVuB/giphy.gif" width = "90px" height = "110px"/> </a>
-<br/>
-<a href = "https://discord.com/users/1152280568692740177"><img src = "https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white"></a>
-<a href = "https://www.linkedin.com/in/devyanshu-jadon"><img src = "https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a>
-<a href = "https://twitter.com/DevyanshuJadon"><img src = "https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white"/></a> 
-<a href = "https://youtube.com/@devyanshudoestechstuff"><img src = "https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white"/></a>
- <br>
-<a href="https://www.kaggle.com/devyloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="" height="50" width="60" /></a>
-<a href="https://auth.geeksforgeeks.org/user/vaishnaviakale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="" height="50" width="60" /></a>
- <p align="left"> <a href="https://twitter.com/vaishnavi_k3969" target="blank"><img src="https://img.shields.io/twitter/follow/vaishnavi_k3969?logo=twitter&style=for-the-badge" alt="vaishnavi_k3969" /></a> </p>
- </p>
-
- <div>
-	 <div><p><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px">Stats</p></div>
- <p align="center">
- <img src = "https://github-readme-activity-graph.vercel.app/graph?username=devyloper&theme=merko"/>
- <a href="https://github.com/devyloper/github-readme-stats"><img alt="Devyanshu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=devyloper&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=000000" /></a>
-  <a href="https://github.com/devyloper/github-readme-stats"><img alt="Devyanshu's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devyloper&langs_count=20&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=000000" /></a>
-  
- </p>
-
- </div>
-
- <div>
-
-
-<div>
-	<div><p><img src= "https://media.giphy.com/media/hpFCIpvGxUKgTfjRKl/giphy.gif" width="60" height="60px"> Languages and Tools</p>
-</div>
-<p align="center">
-  <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=html,css,jquery,git,mysql,mongodb,firebase,java,js,r,py,tensorflow,figma,github"/>
-  </a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/devyanshujadon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devyanshujadon" height="30" width="40" /></a>
 </p>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=gitlab,androidstudio,idea,vscode,visualstudio,eclipse,idea,jenkins,docker,atom,azure,codepen"/>
-  </a>
-</p>
-<br>
-</div>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
-<hr/>
-<div align="center">
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devyloper&show_icons=true&locale=en&layout=compact" alt="devyloper" /></p>
 
-![repo size](https://img.shields.io/github/repo-size/devyloper/devyloper?label=Repo%20Size&style=for-the-badge&labelColor=black&color=20bf6b)
-![GitHub forks](https://img.shields.io/github/forks/devyloper/devyloper?&labelColor=black&color=0fb9b1&style=for-the-badge)
-![GitHub stars](https://img.shields.io/github/stars/devyloper/devyloper?&labelColor=black&color=f7b731&style=for-the-badge)
-![GitHub LastCommit](https://img.shields.io/github/last-commit/devyloper/devyloper?logo=github&labelColor=black&color=d1d8e0&style=for-the-badge)
- <br>
- [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdevyloper&countColor=%23263759)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdevyloper)
-[![Github](https://img.shields.io/github/followers/devyloper?label=Follow&style=social)](https://github.com/devyloper)
-![](./profile-3d-contrib/profile-green-animate.svg)
-</div>
- <p align='center'>
- <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/80088403/243566581-31987900-c48b-47e4-a725-1e4afbac5313.svg"/>
- <p>
-<p align ='center'>
-<p> Thanks for visiting my profile. Have a nice day  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30"></p>
- </p>
-<br>
-  
- <p align = 'center'?
-  <a href = "https://peerlist.io/devyanshujadon" target="blank"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFkMGExNzNmMTY4ZGQ0YWMwZjFmMmFjNTMwN2RkNjU5OGI0MWI4YSZjdD1z/Vf3ZKdillTMOOaOho0/giphy.gif" width="150px" height="150px"/></a>
- </p>
- 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devyloper&show_icons=true&locale=en" alt="devyloper" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devyloper&" alt="devyloper" /></p>
