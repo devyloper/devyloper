@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Rust<br><br>👨‍💻 All of my projects are available at https://devyloper.tech<br><br>💬 Ask me about React, NextJS and DevOps<br><br>📫 How to reach me jadon.devyanshu@gmail.com
+👨‍💻 All of my projects are available at https://devyloper.tech<br><br>💬 Ask me about React, NextJS and DevOps<br><br>📫 How to reach me jadon.devyanshu@gmail.com
 
 
 ## 🌐 Socials:
